@@ -23,7 +23,7 @@ repository               : "academicpages/yuwenpang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Yuwen_Pang_profile_photo.jpg"
   name             : "Know about me"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
